@@ -1,0 +1,3 @@
+C:\Users\xmini\Documents\csharpprojs\AreaOfCircle\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.AssemblyReference.cache
+C:\Users\xmini\Documents\csharpprojs\AreaOfCircle\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\xmini\Documents\csharpprojs\AreaOfCircle\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.CoreCompileInputs.cache
